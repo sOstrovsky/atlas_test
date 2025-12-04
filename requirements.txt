@@ -15,3 +15,4 @@ standard-imghdr==3.13.0
 tornado==6.5.2
 typing_extensions==4.14.1
 tzlocal==5.3.1
+python-dotenv==1.2.1
